@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Billy Rodriguez</h1>
 <h3 align="center">A software engineer from Houston, TX.</h3>
 
-- 👨‍💻 All of my projects are available at [billyrdz.com](billyrdz.com)
+- 👨‍💻 All of my projects are available at [billyrdz.com](https://billyrdz.com)
 
 - 💬 Ask me about **React ⚛️**
 
